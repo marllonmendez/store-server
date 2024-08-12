@@ -1,6 +1,6 @@
 {
   "name": "store-server",
-  "version": "1.0.1-dev",
+  "version": "1.0.2-dev",
   "main": "src/routes/index.ts",
   "scripts": {
     "dev": "tsx watch --env-file .env src/server.ts"

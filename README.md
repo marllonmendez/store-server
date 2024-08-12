@@ -46,12 +46,17 @@ npm install
 npm run dev
 ```
 
-
 <h4>4. Execução do prisma</h4>
 
 ```bash
 npx prisma studio
 ```
+
+## Informações
+Para mais detalhes sobre o projeto desenvolvido, consulte os seguintes recursos:
+
+- [Documentação oficial](https://github.com/digitalcollegebr/projeto-backend)
+- [E-commerce Digital Store](https://digital-store-web.vercel.app/)
 
 ## Licença
 
